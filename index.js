@@ -1,4 +1,5 @@
-const testInterger = () => {
-    let num = 10;
-    return num;
+const testNumber = (num) => {
+    if(num === 2){
+    return true}
+    return false;
 }
